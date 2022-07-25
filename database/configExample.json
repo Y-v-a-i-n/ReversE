@@ -1,0 +1,9 @@
+{
+    "name":"level-name",
+    "level-name":{
+        "level":"hard",
+        "points":200,
+        "flag":"flag{7h3_f149}",
+        "description":"__**Situation**:__ \n```md\n> ...\n* [chall.exe](https://cdn.discordapp.com)\n> ...\n* ...\n* ...```\n\n__**Synthaxe du flag**__: \n```md\n* ...\n> ...\n* ...\n* ...\n\n# ...```\n\n__**Difficulé**__: `...`\n\n__**Récompense**__: `... points`\n\n__**Téléchargement**__: https://cdn.discordapp.com\n\n__**Indices**__: ..."
+    }
+}
